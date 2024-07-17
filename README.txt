@@ -1,7 +1,8 @@
-Welcome to your new YoshiCrafter Engine mod.
+# WHAT IS THIS BRANDON FREOIJHGROIUJREUIOJTGRE5OIJERSTGIORETGJOI3RTJN
+basically this started as a thing that i was restoring gamebreaker but now i basically am just recreating shit
 
-No need to remove README.txt files, since they're automatically ignored when your release is made.
+# WHY ISNT IT WORKING I PUT IT IN MY PSYCH ENGINE MODS FOLDER 0IO3GRJORIGJEGRIJ
+i used [YCE](https://github.com/FNF-CNE-Devs/YoshiCrafterEngine/releases/tag/v2.3.1) for this as thats what souless DX used and no im not planning to switch engines
 
-I recommend checking around the Toolbox, and if you want to go deeper, each folder here have a readme file that contains information about it.
-
-Enjoy!
+# are you sigma?
+yes
