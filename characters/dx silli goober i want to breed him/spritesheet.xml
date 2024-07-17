@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coodx.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dx-down0000" x="0" y="0" width="510" height="580" frameX="-18" frameY="-16" frameWidth="528" frameHeight="608"/>
+	<SubTexture name="dx-down0001" x="0" y="0" width="510" height="580" frameX="-18" frameY="-16" frameWidth="528" frameHeight="608"/>
+	<SubTexture name="dx-down0002" x="510" y="0" width="523" height="608" frameX="0" frameY="0" frameWidth="528" frameHeight="608"/>
+	<SubTexture name="dx-down0003" x="510" y="0" width="523" height="608" frameX="0" frameY="0" frameWidth="528" frameHeight="608"/>
+	<SubTexture name="dx-idle0000" x="1033" y="0" width="454" height="791" frameX="0" frameY="0" frameWidth="454" frameHeight="792"/>
+	<SubTexture name="dx-idle0001" x="1033" y="0" width="454" height="791" frameX="0" frameY="0" frameWidth="454" frameHeight="792"/>
+	<SubTexture name="dx-idle0002" x="1487" y="0" width="453" height="792" frameX="0" frameY="0" frameWidth="454" frameHeight="792"/>
+	<SubTexture name="dx-idle0003" x="1487" y="0" width="453" height="792" frameX="0" frameY="0" frameWidth="454" frameHeight="792"/>
+	<SubTexture name="dx-left0000" x="1940" y="0" width="511" height="723" frameX="0" frameY="-9" frameWidth="511" frameHeight="735"/>
+	<SubTexture name="dx-left0001" x="1940" y="0" width="511" height="723" frameX="0" frameY="-9" frameWidth="511" frameHeight="735"/>
+	<SubTexture name="dx-left0002" x="2451" y="0" width="493" height="735" frameX="-13" frameY="0" frameWidth="511" frameHeight="735"/>
+	<SubTexture name="dx-left0003" x="2451" y="0" width="493" height="735" frameX="-13" frameY="0" frameWidth="511" frameHeight="735"/>
+	<SubTexture name="dx-right0000" x="2944" y="0" width="439" height="688" frameX="-26" frameY="-19" frameWidth="465" frameHeight="707"/>
+	<SubTexture name="dx-right0001" x="2944" y="0" width="439" height="688" frameX="-26" frameY="-19" frameWidth="465" frameHeight="707"/>
+	<SubTexture name="dx-right0002" x="3383" y="0" width="435" height="707" frameX="0" frameY="0" frameWidth="465" frameHeight="707"/>
+	<SubTexture name="dx-right0003" x="3383" y="0" width="435" height="707" frameX="0" frameY="0" frameWidth="465" frameHeight="707"/>
+	<SubTexture name="dx-up0000" x="0" y="792" width="422" height="858" frameX="-20" frameY="0" frameWidth="442" frameHeight="858"/>
+	<SubTexture name="dx-up0001" x="0" y="792" width="422" height="858" frameX="-20" frameY="0" frameWidth="442" frameHeight="858"/>
+	<SubTexture name="dx-up0002" x="422" y="792" width="417" height="831" frameX="0" frameY="-27" frameWidth="442" frameHeight="858"/>
+	<SubTexture name="dx-up0003" x="422" y="792" width="417" height="831" frameX="0" frameY="-27" frameWidth="442" frameHeight="858"/>
+</TextureAtlas>

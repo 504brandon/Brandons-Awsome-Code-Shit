@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="piconic.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="piconic-down0000" x="0" y="0" width="447" height="469" frameX="0" frameY="-7" frameWidth="447" frameHeight="476"/>
+	<SubTexture name="piconic-down0001" x="0" y="0" width="447" height="469" frameX="0" frameY="-7" frameWidth="447" frameHeight="476"/>
+	<SubTexture name="piconic-down0002" x="447" y="0" width="429" height="472" frameX="-3" frameY="0" frameWidth="447" frameHeight="476"/>
+	<SubTexture name="piconic-down0003" x="447" y="0" width="429" height="472" frameX="-3" frameY="0" frameWidth="447" frameHeight="476"/>
+	<SubTexture name="piconic-idle0000" x="876" y="0" width="347" height="534" frameX="0" frameY="-13" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0001" x="876" y="0" width="347" height="534" frameX="0" frameY="-13" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0002" x="1223" y="0" width="341" height="540" frameX="-6" frameY="-7" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0003" x="1223" y="0" width="341" height="540" frameX="-6" frameY="-7" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0004" x="1564" y="0" width="338" height="541" frameX="-6" frameY="-6" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0005" x="1564" y="0" width="338" height="541" frameX="-6" frameY="-6" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0006" x="1902" y="0" width="336" height="544" frameX="-6" frameY="-3" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0007" x="1902" y="0" width="336" height="544" frameX="-6" frameY="-3" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0008" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0009" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0010" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0011" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0012" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-idle0013" x="2238" y="0" width="336" height="547" frameX="-6" frameY="0" frameWidth="347" frameHeight="547"/>
+	<SubTexture name="piconic-left0000" x="2574" y="0" width="412" height="539" frameX="-1" frameY="-3" frameWidth="416" frameHeight="542"/>
+	<SubTexture name="piconic-left0001" x="2574" y="0" width="412" height="539" frameX="-1" frameY="-3" frameWidth="416" frameHeight="542"/>
+	<SubTexture name="piconic-left0002" x="0" y="547" width="416" height="542"/>
+	<SubTexture name="piconic-left0003" x="0" y="547" width="416" height="542"/>
+	<SubTexture name="piconic-right0000" x="416" y="547" width="409" height="559" frameX="-15" frameY="-2" frameWidth="424" frameHeight="561"/>
+	<SubTexture name="piconic-right0001" x="416" y="547" width="409" height="559" frameX="-15" frameY="-2" frameWidth="424" frameHeight="561"/>
+	<SubTexture name="piconic-right0002" x="825" y="547" width="421" height="559" frameX="0" frameY="0" frameWidth="424" frameHeight="561"/>
+	<SubTexture name="piconic-right0003" x="825" y="547" width="421" height="559" frameX="0" frameY="0" frameWidth="424" frameHeight="561"/>
+	<SubTexture name="piconic-up0000" x="1246" y="547" width="351" height="677" frameX="-4" frameY="0" frameWidth="360" frameHeight="678"/>
+	<SubTexture name="piconic-up0001" x="1246" y="547" width="351" height="677" frameX="-4" frameY="0" frameWidth="360" frameHeight="678"/>
+	<SubTexture name="piconic-up0002" x="1597" y="547" width="360" height="670" frameX="0" frameY="-8" frameWidth="360" frameHeight="678"/>
+	<SubTexture name="piconic-up0003" x="1597" y="547" width="360" height="670" frameX="0" frameY="-8" frameWidth="360" frameHeight="678"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SKETCHPICO.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="172" height="277" frameX="-26" frameY="0" frameWidth="204" frameHeight="277"/>
+	<SubTexture name="idle0001" x="0" y="0" width="172" height="277" frameX="-26" frameY="0" frameWidth="204" frameHeight="277"/>
+	<SubTexture name="idle0002" x="172" y="0" width="204" height="268" frameX="0" frameY="-2" frameWidth="204" frameHeight="277"/>
+	<SubTexture name="idle0003" x="172" y="0" width="204" height="268" frameX="0" frameY="-2" frameWidth="204" frameHeight="277"/>
+	<SubTexture name="singDOWN0000" x="376" y="0" width="230" height="286" frameX="0" frameY="-19" frameWidth="230" frameHeight="305"/>
+	<SubTexture name="singDOWN0001" x="376" y="0" width="230" height="286" frameX="0" frameY="-19" frameWidth="230" frameHeight="305"/>
+	<SubTexture name="singDOWN0002" x="606" y="0" width="226" height="268" frameX="-3" frameY="0" frameWidth="230" frameHeight="305"/>
+	<SubTexture name="singDOWN0003" x="606" y="0" width="226" height="268" frameX="-3" frameY="0" frameWidth="230" frameHeight="305"/>
+	<SubTexture name="singLEFT0000" x="0" y="286" width="196" height="272" frameX="0" frameY="-5" frameWidth="198" frameHeight="277"/>
+	<SubTexture name="singLEFT0001" x="0" y="286" width="196" height="272" frameX="0" frameY="-5" frameWidth="198" frameHeight="277"/>
+	<SubTexture name="singLEFT0002" x="196" y="286" width="192" height="274" frameX="-6" frameY="0" frameWidth="198" frameHeight="277"/>
+	<SubTexture name="singLEFT0003" x="196" y="286" width="192" height="274" frameX="-6" frameY="0" frameWidth="198" frameHeight="277"/>
+	<SubTexture name="singRIGHT0000" x="388" y="286" width="221" height="274" frameX="0" frameY="-2" frameWidth="221" frameHeight="276"/>
+	<SubTexture name="singRIGHT0001" x="388" y="286" width="221" height="274" frameX="0" frameY="-2" frameWidth="221" frameHeight="276"/>
+	<SubTexture name="singRIGHT0002" x="609" y="286" width="193" height="274" frameX="-12" frameY="0" frameWidth="221" frameHeight="276"/>
+	<SubTexture name="singRIGHT0003" x="609" y="286" width="193" height="274" frameX="-12" frameY="0" frameWidth="221" frameHeight="276"/>
+	<SubTexture name="singUP0000" x="802" y="286" width="199" height="292" frameX="-16" frameY="-1" frameWidth="215" frameHeight="293"/>
+	<SubTexture name="singUP0001" x="802" y="286" width="199" height="292" frameX="-16" frameY="-1" frameWidth="215" frameHeight="293"/>
+	<SubTexture name="singUP0002" x="0" y="578" width="202" height="292" frameX="0" frameY="0" frameWidth="215" frameHeight="293"/>
+	<SubTexture name="singUP0003" x="0" y="578" width="202" height="292" frameX="0" frameY="0" frameWidth="215" frameHeight="293"/>
+</TextureAtlas>

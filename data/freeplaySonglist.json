@@ -1,0 +1,42 @@
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Saster"
+			],
+			"char": "dx",
+			"bpm": 146,
+			"color": "#FFFFFF",
+			"name": "Gamebreaker"
+		},
+		{
+			"bpm": 150,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "dx",
+			"name": "Testbreaker",
+			"color": "#F302F7"
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Hard"
+			],
+			"char": "bf faker",
+			"color": "#0E6171",
+			"name": "eye-to-eye",
+			"bpm": 110
+		},
+		{
+			"difficulties": [
+				"finale"
+			],
+			"displayName": null,
+			"char": "xeno-finale",
+			"bpm": 195,
+			"name": "Final-escape",
+			"color": "#FFFFFF"
+		}
+	]
+}

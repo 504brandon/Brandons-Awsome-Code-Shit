@@ -1,0 +1,29 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 40,
+		"y": 450
+	},
+	"healthbarColor": "#31B0D1",
+	"flipX": false,
+	"anims": [],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1.8
+}

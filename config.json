@@ -1,0 +1,36 @@
+{
+	"skinnableGFs": [],
+	"discordRpc": null,
+	"locked": false,
+	"BFskins": [],
+	"downloadLink": null,
+	"keyNumbers": [
+		4
+	],
+	"name": "Brandons Awsome Code Shit",
+	"skinnableBFs": [],
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"description": "This is a mod where i code random shit into YCE.",
+	"titleBarName": "Friday Night Funkin' - Brandons Awsome Code Shit",
+	"GFskins": [],
+	"downloadLinkAlt": null
+}
