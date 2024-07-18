@@ -11,8 +11,8 @@ function createPost() {
 	for (i in 0...4) {
 		cpuStrums.members[i].angle = 90;
 		cpuStrums.members[i].x = 1120;
-		cpuStrums.members[i].y = 40 * i - 25;
-		cpuStrums.members[i].y += cpuStrums.members[i].y + 40;
+		cpuStrums.members[i].y = 145 + (90 * i);
+		//cpuStrums.members[i].y += cpuStrums.members[i].y + 40;
 		cpuStrums.members[i].cameras = [camGame];
 	}
 
@@ -22,7 +22,9 @@ function createPost() {
             if (note.strumTime < 30500)
                 note.visible = false;
 
-			if (FlxG.random.bool(30) && !note.isSustainNote) {
+			note.scale.set(1.02, 1.02);
+
+			if (!note.isSustainNote) {
                 var arry:Array<String> = ["purple", "blue", "green", "red"];
 
 				note.frames = Paths.getSparrowAtlas('dxnotes');
@@ -55,14 +57,12 @@ function update(elapsed) {
 	dad.cameras = [camMain];
 	boyfriend.cameras = [camMain];
 
-	if (curStep == 815 && PlayState.jsonSongName.toLowerCase() == "gamebreaker" && PlayState.storyDifficulty.toLowerCase() == "saster"){
-		stage.getSprite("bg").color = 0xFF5e5d5c;
-		stage.getSprite("pillar1").color = 0xFF5e5d5c;
-		stage.getSprite("pillar2").color = 0xFF5e5d5c;
-		stage.getSprite("Ground").color = 0xFF5e5d5c;
-	}
+	boyfriend.scale.set(camGame.zoom / 0.9, camGame.zoom / 0.9);
 
-	if (curStep == 1743 && PlayState.jsonSongName.toLowerCase() == "gamebreaker" && PlayState.storyDifficulty.toLowerCase() == "saster"){
+	if (curStep == 304 && PlayState.jsonSongName.toLowerCase() == "gamebreaker" && PlayState.storyDifficulty.toLowerCase() == "saster")
+		stage.getSprite("bg").color = 0xffc64545;
+
+	if (curStep == 815 && PlayState.jsonSongName.toLowerCase() == "gamebreaker" && PlayState.storyDifficulty.toLowerCase() == "saster"){
 		stage.getSprite("bg").color = 0xFFcf0221;
 		stage.getSprite("pillar1").color = 0xFFcf0221;
 		stage.getSprite("pillar2").color = 0xFFcf0221;

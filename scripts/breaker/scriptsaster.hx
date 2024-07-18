@@ -35,7 +35,7 @@ function update(elapsed) {
 		case 17:
 			camHUD.flash();
 		case 304:
-			FlxG.camera.flash(0xFFff0015);
+			FlxG.camera.flash(0xff9d000d);
 			changeDad(mod + ":dxangy");
 		case 560:
 			if (FlxG.random.bool(0.1))

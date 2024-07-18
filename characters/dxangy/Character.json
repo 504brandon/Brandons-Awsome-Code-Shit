@@ -1,11 +1,11 @@
 {
 	"arrowColors": null,
 	"camOffset": {
-		"x": -60,
-		"y": 90
+		"x": -50,
+		"y": 80
 	},
 	"globalOffset": {
-		"x": -70,
+		"x": 30,
 		"y": 200
 	},
 	"healthbarColor": "#31B0D1",
